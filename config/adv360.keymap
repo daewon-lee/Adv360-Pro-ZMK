@@ -64,7 +64,7 @@
  &kp LG(TAB)  &trans  &trans              &trans               &trans  &trans            &kp RG(SPACE)                                                                            &kp C_MUTE  &trans              &trans               &trans   &trans   &trans   &trans
       &trans  &trans  &trans              &trans               &trans  &trans                 &kp RALT  &trans           &trans                  &kp K_CONTEXT_MENU  &kp RALT     &kp C_MUTE  &trans              &trans               &trans   &trans   &trans   &trans
       &trans  &trans  &trans              &trans               &trans  &trans                                        &kp INSERT                      &kp SCROLLLOCK                           &trans              &trans               &trans   &trans   &trans   &trans
-      &trans  &trans  &trans  &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)                           &trans  &trans  &kp PAUSE_BREAK                     &kp PRINTSCREEN    &trans  &kp RG(SPACE)          &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)   &trans   &trans   &trans
+      &trans  &trans  &trans  &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)                           &trans  &trans  &kp PAUSE_BREAK                     &kp PRINTSCREEN  &kp RALT  &kp RG(SPACE)          &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)   &trans   &trans   &trans
             >;
         };
 
